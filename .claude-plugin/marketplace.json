@@ -1,0 +1,9 @@
+{
+  "name": "b2b-tone-manner",
+  "owner": { "name": "Leehojun" },
+  "metadata": { "description": "개인 업무 글쓰기 톤 스킬", "version": "2.0.0" },
+  "plugins": [
+    { "name": "b2b-tone-manner", "source": "./", "version": "2.0.0",
+      "description": "메일·문서 작성 톤을 본인 말투로 적용" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "b2b-tone-manner",
+  "version": "2.0.0",
+  "description": "본인이 실제로 쓴 메일·문서를 분석해 만든 한국어 업무 글쓰기 톤. 메일 모드와 문서 모드, 회사별 프로필, 90일 주기 갱신.",
+  "author": { "name": "Leehojun" },
+  "license": "MIT"
+}
